@@ -1,0 +1,8 @@
+{
+  "name": "ArogyaSahay",
+  "description": "A smart healthcare assistant for medication adherence, chronic disease management, and AI-powered health insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
